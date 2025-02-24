@@ -2,7 +2,7 @@
 
 ---
 ### Purpose
-Sorting algorithms are fundamental to computer science. I designed this project to deepen my understanding of these algorithms, their time complexities, and memory usage. These algorithms are essential tools in the field, and this project serves as a growing resource and reference for future work.
+Sorting algorithms are fundamental to computer science. I designed this project to deepen my understanding of these algorithms, their time complexities, and memory usage. These algorithms are essential in my field, and this project serves as a growing resource and reference for the future.
 
 ### Project Overview
 This project examines several popular sorting algorithms, including:
@@ -22,6 +22,7 @@ pip install -e .
 ```
 
 ---
+### Results
 ![Time Results Image](TimeResults.png)
 
 ---
