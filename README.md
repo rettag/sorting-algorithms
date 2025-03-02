@@ -1,4 +1,4 @@
-# Sort Algorithms Analysis
+# Sorting Algorithms Analysis
 
 ---
 ### Purpose
